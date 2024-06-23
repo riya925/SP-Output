@@ -1,0 +1,11 @@
+This is a file.
+//comment one
+//comment two
+/* multiline comment */
+This is not a comment
+/* multiline comment */
+hello
+goodbye
+//ignore this
+I study in CE-2
+/* Last multiline comment*/
